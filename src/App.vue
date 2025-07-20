@@ -14,7 +14,7 @@ const qrUrl = computed(() =>
   <header>
   </header>
   <div class="w-full h-screen">
-    <div class="mx-auto w-2/10 mt-[100px]">
+    <div class="mx-auto lg:w-2/10 w-8/10 mt-[100px]">
       <div class="text-center my-4 text-[20px]">
         QR GENERATOR
       </div>
